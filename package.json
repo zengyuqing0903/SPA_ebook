@@ -1,0 +1,23 @@
+{
+  "name": "SPA_ebook",
+  "version": "1.0.0",
+  "description": "这是一个GitBook 自动化构建的Demo。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zengyuqing0903/SPA_ebook.git"
+  },
+  "keywords": [],
+  "author": "zyq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zengyuqing0903/SPA_ebook/issues"
+  },
+  "homepage": "https://github.com/zengyuqing0903/SPA_ebook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
